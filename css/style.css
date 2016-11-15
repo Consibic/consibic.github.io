@@ -1,5 +1,5 @@
 body{ 
-	background-image: url("Consibic/consibic.github.io/images/index_back.JPG");
+	background-image: url("consibic.github.io/images/index_back.JPG");
     background-attachment: fixed; 
 	background-position: center center;
     background-repeat: no-repeat;
@@ -48,14 +48,14 @@ ul.nav.navbar li a:focus{
 } 
 .nametitle{
 	font-family: Alegreya Sans SC;
-	src: url("Consibic/consibic.github.io/font/AlegreyaSansSC-Regular.ttf");
+	src: url("consibic.github.io/font/AlegreyaSansSC-Regular.ttf");
 	font-weight: bold;
 	font-size: 4.5em;
 	color: #f2f2f2;
 }
 .introtitle{
 	font-family: Redemption;
-	src: url("Consibic/consibic.github.io/font/Redemption.ttf");
+	src: url("consibic.github.io/font/Redemption.ttf");
 	font-size: 1.2m;
 	color: #8c8c8c;
 }
@@ -63,7 +63,7 @@ ul.nav.navbar li a:focus{
 	display: block;
 	position: relative;
 	font-family:Alegreya Sans SC;
-	src: url("Consibic/consibic.github.io/font/AlegreyaSansSC-Regular.ttf");
+	src: url("consibic.github.io/font/AlegreyaSansSC-Regular.ttf");
 } 
 .nav-link span::before {
 	content: attr(data-letters);
@@ -102,7 +102,7 @@ ul.nav.navbar li a.nav-link:active {
 .banner-text {
     margin: 8em 0 8em 0;
     text-align: center;
-    background-image: url("Consibic/consibic.github.io/images/Bkg3.JPG");
+    background-image: url("consibic.github.io/images/Bkg3.JPG");
     display: inline-block;
     padding: 4em;
 }
@@ -114,7 +114,7 @@ ul.nav.navbar li a.nav-link:active {
 .bar-grids h4
 {
     font-family: Redemption;
-    src: url("Consibic/consibic.github.io/font/Redemption.ttf");
+    src: url("consibic.github.io/font/Redemption.ttf");
 	font-size: 1.5em;
 	color: #F2A41D;
 }
@@ -125,7 +125,7 @@ ul.nav.navbar li a.nav-link:active {
     letter-spacing: 3px;
     font-weight: 900;
     font-family: Alegreya Sans SC;
-    src: url("Consibic/consibic.github.io/font/AlegreyaSansSC-Regular.ttf");
+    src: url("consibic.github.io/font/AlegreyaSansSC-Regular.ttf");
 }
 .index-page .banner-text
 {
@@ -199,7 +199,7 @@ p.agile-br {
 }
 .modal-title{
 	font-family: Alegreya Sans SC;
-	src: url("Consibic/consibic.github.io/font/AlegreyaSansSC-Regular.ttf");
+	src: url("consibic.github.io/font/AlegreyaSansSC-Regular.ttf");
 	font-size: 50px;
 	color: #99ebff;
 	font-weight: bold;
@@ -207,7 +207,7 @@ p.agile-br {
 .progress {
     height: 20px;
     margin-bottom: 2.2em;
-    background: url("Consibic/consibic.github.io/images/Bkg1.JPG");
+    background: url("consibic.github.io/images/Bkg1.JPG");
 	-webkit-border-radius: 10%;
 	-moz-border-radius: 10%;
 	-o-border-radius: 10%;
@@ -221,7 +221,7 @@ p.agile-br {
 .experience-left {
     float: left;
     width: 30%;
-    background: url("Consibic/consibic.github.io/images/Bkg1.JPG");
+    background: url("consibic.github.io/images/Bkg1.JPG");
 	background-position: center center;
     background-repeat: no-repeat;
 	background-size: cover;
@@ -263,7 +263,7 @@ p.agile-br {
     margin: 2em auto;
 }
 .experience-grids:hover .experience-left {
-    background: url("Consibic/consibic.github.io/images/Bkg2.JPG");
+    background: url("consibic.github.io/images/Bkg2.JPG");
 	background-position: center center;
     background-repeat: no-repeat;
 	background-size: cover;
