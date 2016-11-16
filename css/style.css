@@ -1,5 +1,5 @@
 body{ 
-	background-image: url("consibic.github.io/images/index_back.JPG");
+	background-image: url(consibic.github.io/images/index_back.JPG);
     background-attachment: fixed; 
 	background-position: center center;
     background-repeat: no-repeat;
@@ -102,7 +102,7 @@ ul.nav.navbar li a.nav-link:active {
 .banner-text {
     margin: 8em 0 8em 0;
     text-align: center;
-    background-image: url("consibic.github.io/images/Bkg3.JPG");
+    background-image: url(consibic.github.io/images/Bkg3.jpg);
     display: inline-block;
     padding: 4em;
 }
