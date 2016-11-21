@@ -404,6 +404,9 @@
                 window.location.hash = hash;
             });
         }
+    });  
+    $(window).scroll(function () {
+        $('#container').css('background-position', '0px ' + $(window).scrollTop() + 'px');
     });
 </script>
 </html>
