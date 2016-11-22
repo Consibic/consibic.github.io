@@ -328,7 +328,17 @@ p.agile-br
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
-} 
+}
+.journalimg
+{
+    width: 95%;
+}
+.journal p
+{
+    font-size: 2em;
+    font-family: Alegreya Sans SC;
+    color: #003380;
+}
 .contact-left 
 {
     width: 50%;
@@ -355,7 +365,6 @@ p.agile-br
 {
     width: 100%;
 }
-
 .styled-input.agile-styled-input-top 
 {
     margin-top: 0;
@@ -756,6 +765,10 @@ ul.about-info li ul.info-text li
 {
     display: inherit;
 }
+.journal p
+{
+    font-size: 1.5em;
+}
 ul.about-info li ul.info-text li a
 {
     padding: 0;
@@ -913,6 +926,10 @@ ul.about-info li ul.info-text li
 .banner-text h1 
 {
     font-size: 1.8em;
+}
+.journal p
+{
+    font-size: 1em;
 }
 .modal-header 
 { 
