@@ -339,6 +339,15 @@ p.agile-br
     font-family: Alegreya Sans SC;
     color: #003380;
 }
+.insphoto
+{
+    margin: 1em 0 1em 0;
+}
+.loadmore
+{
+	font-family: Alegreya Sans SC;
+	font-size: 1.5em;
+} 
 .contact-left 
 {
     width: 50%;
@@ -488,9 +497,16 @@ p.agile-br
 }
 @media(max-width:1280px)
 {
+.nav > li { 
+    padding: 1.5em 1.5em;
+} 
 }
 @media(max-width:1200px)
 {
+ul.nav.navbar li a 
+{ 
+    font-size: 1.3em; 
+}
 .nametitle
 {
 	font-size: 4em;
@@ -502,9 +518,6 @@ p.agile-br
 }
 @media(max-width:1080px)
 {
-.nav > li { 
-    padding: 1.5em 1.5em;
-} 
 .model-body
 {
     width: 100%
@@ -512,6 +525,10 @@ p.agile-br
 }
 @media(max-width:1024px)
 {
+ul.nav.navbar li a 
+{ 
+    font-size: 1.2em; 
+}
 .banner-text 
 {
     margin: 8em 0 7.1em 0;
@@ -530,7 +547,7 @@ p.agile-br
 {
 ul.nav.navbar li a 
 { 
-    font-size: 1.4em; 
+    font-size: 1em; 
 }
 .nametitle
 {
@@ -583,7 +600,7 @@ ul.nav.navbar li a
 {
 ul.nav.navbar li a 
 {
-    font-size: 1.2em;
+    font-size: 0.8em;
 }
 .banner-text h1 
 {
