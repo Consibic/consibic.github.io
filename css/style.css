@@ -2,15 +2,15 @@
 {
 	font-family: Alegreya Sans SC;
 	src: url("../font/AlegreyaSansSC-Regular.ttf");
-¡¡¡¡font-weight: normal;
-¡¡¡¡font-style: normal;
+Â¡Â¡Â¡Â¡font-weight: normal;
+Â¡Â¡Â¡Â¡font-style: normal;
 }
 @font-face 
 {
 	font-family: Redemption;
 	src: url("../font/Redemption.ttf");
-¡¡¡¡font-weight: normal;
-¡¡¡¡font-style: normal;
+Â¡Â¡Â¡Â¡font-weight: normal;
+Â¡Â¡Â¡Â¡font-style: normal;
 }
 body{ 
 	background-image: url(../images/index_back.JPG);
@@ -236,6 +236,7 @@ ul.about-info li ul.info-text li a:hover
 {
     color: #99ebff;
 } 
+li a{color:white}
 .about-text 
 {
     padding: 3em 3em  0;
