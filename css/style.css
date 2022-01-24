@@ -241,6 +241,21 @@ ul.item-list li p
 	text-align: left;
 	color: #FFFFFF;
 }
+ul.item-list li a
+{
+	text-align: left;
+	color: #FFFFFF;
+}
+ul.item-list li
+{
+	text-align: left;
+	color: #FFFFFF;
+}
+ul.item-list li ul li p
+{
+	text-align: left;
+	color: #FFFFFF;
+}
 .about-text 
 {
     padding: 3em 3em  0;
