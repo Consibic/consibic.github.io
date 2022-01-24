@@ -236,7 +236,11 @@ ul.about-info li ul.info-text li a:hover
 {
     color: #99ebff;
 } 
-li a{color:white}
+ul.item-list li a
+{
+	text-align: left;
+	color: #FFFFFF;
+}
 .about-text 
 {
     padding: 3em 3em  0;
